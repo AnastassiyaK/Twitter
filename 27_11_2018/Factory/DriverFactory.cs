@@ -33,8 +33,7 @@ namespace _27_11_2018.Factory
             switch (browserName)
             {
                 case "Chrome":
-                    if (Driver == null)
-                    {
+                    { 
                         driver = new ChromeDriver();
                         Drivers.Add("Chrome", Driver);
                     }

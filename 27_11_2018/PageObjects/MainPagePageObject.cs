@@ -15,9 +15,10 @@ namespace _27_11_2018.PageObjects
         {
             PageFactory.InitElements(DriverFactory.Driver, this);
         }
-        [FindsBy(How = How.Id, Using = "global - new- tweet - button"]
+
+        [FindsBy(How = How.Id, Using = "global - new- tweet - button")]
         private IWebElement btnTweet;
-        [FindsBy(How = How.Id, Using = "global - new- tweet - button"]
-        private IWebElement btnTweet;
+        //[FindsBy(How = How.Id, Using = ""]
+        //private IWebElement textTweet;
     }
 }

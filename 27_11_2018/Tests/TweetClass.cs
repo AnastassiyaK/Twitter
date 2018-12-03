@@ -26,13 +26,16 @@ namespace _27_11_2018
         public void StartUpUrl()
         {
             DriverFactory.InitBrowser("Chrome");
-           
+            LoginPageObject loginpage = new LoginPageObject();
+            loginpage.GoToPage();
+
+
         }
         
 
         public void LogIn()
         {
-            MainPagePageObject loginpage = new MainPagePageObject();
+            LoginPageObject loginpage = new LoginPageObject();
             string login = "testtwe65442526";
             string password = "selenium";
             loginpage.LogIn(login,password);            
