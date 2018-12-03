@@ -1,0 +1,14 @@
+E:\Epam_training\27_11_2018\27_11_2018\bin\Debug\27_11_2018.dll
+E:\Epam_training\27_11_2018\27_11_2018\bin\Debug\27_11_2018.pdb
+E:\Epam_training\27_11_2018\27_11_2018\bin\Debug\nunit.framework.dll
+E:\Epam_training\27_11_2018\27_11_2018\bin\Debug\WebDriver.dll
+E:\Epam_training\27_11_2018\27_11_2018\bin\Debug\WebDriver.Support.dll
+E:\Epam_training\27_11_2018\27_11_2018\bin\Debug\nunit.framework.pdb
+E:\Epam_training\27_11_2018\27_11_2018\bin\Debug\nunit.framework.xml
+E:\Epam_training\27_11_2018\27_11_2018\bin\Debug\WebDriver.xml
+E:\Epam_training\27_11_2018\27_11_2018\bin\Debug\WebDriver.Support.xml
+E:\Epam_training\27_11_2018\27_11_2018\obj\Debug\27_11_2018.csprojAssemblyReference.cache
+E:\Epam_training\27_11_2018\27_11_2018\obj\Debug\27_11_2018.csproj.CoreCompileInputs.cache
+E:\Epam_training\27_11_2018\27_11_2018\obj\Debug\27_11_2018.csproj.CopyComplete
+E:\Epam_training\27_11_2018\27_11_2018\obj\Debug\27_11_2018.dll
+E:\Epam_training\27_11_2018\27_11_2018\obj\Debug\27_11_2018.pdb
